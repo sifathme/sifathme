@@ -7,7 +7,7 @@ I would love to share my enthusiasm and passion for website design. Please let m
 
 If you have any questions, feel free to contact me and we can discuss furthermore.
 
-Skills: HTML5 / CSS3 / SASS / Bootstrap / Bem / JavaScript / React.js / Next.js/ TypeScript / jQuery / WordPress
+Skills: HTML5 / CSS3 / SASS / Bootstrap / Bem / JavaScript / React.js / Next.js / TypeScript / jQuery / WordPress
 
 - 🌱 I’m currently learning javaScript 
 - 💬 Ask me about web development 
