@@ -1,15 +1,15 @@
 ## Hi there 👋, I'm Sifath.
 #### 🖥️ Full Stack Web Developer
 
-I'm a Front-end developer, very passionate about the web programming field, and also I always satisfy the client 100%
+I'm very passionate about the web programming field, and I always satisfy the client 100%
 
 I would love to share my enthusiasm and passion for website design. Please let me know what kind of web design you need. If you want a professional website converter psd to html, xd to html, or any conversion-related work, I will do it easily.
 
-If you have any questions, feel free to contact me and we can discuss furthermore.
+If you have any questions, feel free to contact me, and we can discuss them further.
 
 Skills: HTML5 / CSS3 / SASS / Bootstrap / Bem / JavaScript / React.js / Next.js / TypeScript / jQuery / WordPress
 
-- 🌱 I’m currently learning javaScript 
+- 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about web development 
 - 📫 How to reach me: info.mdsifath70@gmail.com 
 
