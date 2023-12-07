@@ -1,17 +1,14 @@
 ## Hi there 👋, I'm Sifath.
-#### 🖥️ Full Stack Web Developer
+#### 🖥️ Web Developer
 
-I'm very passionate about the web programming field, and I always satisfy the client 100%
-
-I would love to share my enthusiasm and passion for website design. Please let me know what kind of web design you need. If you want a professional website converter psd to html, xd to html, or any conversion-related work, I will do it easily.
-
-If you have any questions, feel free to contact me, and we can discuss them further.
+Embark on a web development journey with me and let's craft success together!
 
 ### Tech Stack
 
-**Client:** JavaScript, TypeScript, React, Next.js, Redux, TailwindCSS
-
-**Server:** Node.js, Express.js, Nest.js, MongoDb, Prisma
+Front-end: Next.js, React.js, JavaScript, TypeScript, Tailwind CSS
+Backend: Node.js, Nest.js, Express.js
+Database: Prisma, Mongoose, MongoDB
+Proficient in: Git, Github, VsCode, and more
 
 - 🌱 I’m on a journey of continuous learning!
 - 💬 Ask me about web development
