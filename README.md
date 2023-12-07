@@ -5,13 +5,13 @@ Embark on a web development journey with me and let's craft success together!
 
 ### Tech Stack
 
-Front-end: Next.js, React.js, JavaScript, TypeScript, Tailwind CSS
+**Front-end**: Next.js, React.js, JavaScript, TypeScript, Tailwind CSS
 
-Backend: Node.js, Nest.js, Express.js
+**Backend**: Node.js, Nest.js, Express.js
 
-Database: Prisma, Mongoose, MongoDB
+**Database**: Prisma, Mongoose, MongoDB
 
-Proficient in: Git, Github, VsCode, and more
+**Proficient in**: Git, Github, VsCode, and more
 
 - 🌱 I’m on a journey of continuous learning!
 - 💬 Ask me about web development
