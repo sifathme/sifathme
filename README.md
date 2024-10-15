@@ -9,7 +9,7 @@ Embark on a web development journey with me and let's craft success together!
 
 **Backend**: Node.js, Nest.js, Express.js
 
-**Database**: Prisma, MongoDB
+**Database**: Prisma, MongoDB, PostgreSQL
 
 **Proficient in**: Git, Github, VsCode, and more
 
